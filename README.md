@@ -20,9 +20,9 @@ Initial release.
 
 1. Clone this repository
 2. Vagrant up
-3. Vagrant ssh or Open [http://192.168.33.200](http://192.168.33.200).
-
-* Run `sudo yum update`.
+3. Vagrant ssh
+4. Run `sudo yum update`
+5. Open [http://192.168.33.200](http://192.168.33.200).
 
 ## Update softwares
 
