@@ -1,4 +1,4 @@
-# UT64-fend
+# C764-fend
 
 [protean/C764-fend](https://vagrantcloud.com/protean/boxes/C764-fend) is a standard CentOS 7 BASE box with LAMP(WP-CLI ready), NodeJS(via nodebrew), MongoDB, Redis, Ruby(via rbenv), Git and some helpful programs for front-end developers.
 
