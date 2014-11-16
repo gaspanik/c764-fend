@@ -10,7 +10,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   # please see the online documentation at vagrantup.com.
 
   # Every Vagrant virtual environment requires a box to build off of.
-  config.vm.box = "c764-fend100"
+  config.vm.box = "protean/C764-fend"
   # config.vm.provision "shell", inline: "sudo yum update -y"
  
   # Disable automatic box update checking. If you disable this, then
