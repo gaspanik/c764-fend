@@ -11,7 +11,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   # Every Vagrant virtual environment requires a box to build off of.
   config.vm.box = "c764-fend100"
-  # config.vm.provision "shell", inline: "sudo yum update"
+  # config.vm.provision "shell", inline: "sudo yum update -y"
  
   # Disable automatic box update checking. If you disable this, then
   # boxes will only be checked for updates when the user runs
